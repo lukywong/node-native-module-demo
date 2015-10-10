@@ -1,3 +1,3 @@
 var hello = require('./build/Release/hello.node');
 
-console.log(hello.sayHello('Woo'));
+console.log(hello.sayHello('Jack', 'Paul'));
