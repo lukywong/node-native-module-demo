@@ -1,5 +1,7 @@
-# How to run
+# Introduction
 Thanks to v8 breaking changes especially among 0.10 to 0.12 to 4.0 bring us api version nightmares, so here comes out [NAN](https://github.com/nodejs/nan), so we here install nan to ignore node version when build native modules.
+
+# How to run
 
 ``` bash
 $ npm install --save nan

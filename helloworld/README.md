@@ -1,3 +1,6 @@
+# Introduction
+Hello world for native nodejs addon.
+
 # How to run
 Make sure switch your node version to 0.10.33
 
