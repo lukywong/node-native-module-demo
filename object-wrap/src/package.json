@@ -1,0 +1,16 @@
+{
+  "name": "object-wrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nan": "^2.1.0"
+  },
+  "scripts": {
+    "config": "node-gyp configure",
+    "build": "node-gyp build",
+    "exe": "node index.js"
+  },
+  "author": "lukywong@gmail.com",
+  "license": "MIT"
+}
